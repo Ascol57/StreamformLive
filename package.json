@@ -26,6 +26,7 @@
   "author": "const",
   "license": "MIT",
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.1"
+    "electron-squirrel-startup": "^1.0.1",
+    "obs-websocket-js": "^5.0.6"
   }
 }
